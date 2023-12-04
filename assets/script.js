@@ -29,29 +29,6 @@ const utente6 = new User('Emma','Pagani','62','Sanremo')
 /*utente1.moreOlder(utente2);*/
 /*ESERCIZIO 2*/
 
-/*class Pets {
-    constructor(,,_species,_breed){
-        this.petName = _petName
-        this.ownerName = _ownerName
-        this.species = _species
-        this.breed = _breed
-    }
-    sameOwner(petOwner){
-        if (this.ownerName === petOwner.ownerName)
-        console.log()
-    }
-
-}
-
-const pet1 = new Pets('Mike','Luca','Cane','Pastore')
-const pet2 = new Pets('Boh','Mario','Gatto','persiano')
-const pet3 = new Pets('Stuff','Giovanni','Iguana','indonesiana')
-const pet4 = new Pets('Puff','Marco','gatto','europeo')
-const pet5 = new Pets('TJ','Luca','cavallo','maremmano')*/
-
-
-// Contenuto del file "script.js"
-
 class GestoreForm {
     constructor() {
         this.pets = [];
